@@ -1,16 +1,32 @@
 body {
   font-family: Verdana;
+  background-color: Black;
+  text-align: center;
+
 }
 
 h1 {
   font-weight: Normal;
   font-size: 50px;
   color: White;
-  text-align: Centered;
+}
+
+h2 {
+  font-size: 40px;
+  font-weight: 300;
+  color: White;
+}
+
+p {
+  color: Gray;
+  font-size: 21px;
 }
 
 .download {
   color: Aquamarine;
   font-size: 16px;
+}
 
+.copyright {
+  text-align: right;
 }
